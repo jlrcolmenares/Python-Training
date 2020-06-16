@@ -1,9 +1,7 @@
-#  
-
+# Exercise 7
 numero = int(input('Introducir número entero: '))
 valor = 0
-
 for i in range(numero + 1):
-    valor = valor + i
-
+     valor = valor + i
 print('La suma progresiva es: ', valor)
+

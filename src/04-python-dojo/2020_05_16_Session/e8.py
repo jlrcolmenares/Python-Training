@@ -1,4 +1,5 @@
-
+# Exercise 8
+pesos_totales = []
 productos = input('Introduce descripción de productos (lista): ')
 productos = ['tazas','bolsas de café']
 pesos = [34, 45]

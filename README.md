@@ -10,7 +10,7 @@ Here a list of the sources that I used
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
 | [**Platzi**](https://platzi.com/@joseluisramon/)           | [Go to folder](https://github.com/joseluisramon/Python-Training/tree/master/src/01-platzi-challenges) |
 | [**HackerRank**](https://www.hackerrank.com/joseluisramon) | [Go to folder](https://github.com/joseluisramon/Python-Training/tree/master/src/02-hacker-rank) |
-| **Kaggle**                                                 | [Go to folder](https://github.com/joseluisramon/Python-Training/tree/master/src/03-kaggle) |
+| [**Kaggle**](https://www.kaggle.com/joseluisramon)         | [Go to folder](https://github.com/joseluisramon/Python-Training/tree/master/src/03-kaggle) |
 | [**PythonDojo**](https://www.twitch.tv/terranigmark)       | [Go to folder](https://github.com/joseluisramon/Python-Training/tree/master/src/04-python-dojo) |
 
 Each folder contains exercises with the explanation.
