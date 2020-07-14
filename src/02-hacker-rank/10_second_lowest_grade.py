@@ -1,6 +1,30 @@
 # Given the names and grades for each student in a Physics class of  students
 # store them in a nested list and print the name(s) of any student(s) having the second lowest grade.
 
+''' input
+5
+Harry
+37.21
+Berry
+37.21
+Tina
+37.2
+Akriti
+41
+Harsh
+39
+
+4
+Prashant
+32
+Pallavi
+36
+Dheeraj
+39
+Shivam
+40
+'''
+
 if __name__ == '__main__':
     nested_list = [] # We created a list where tha values have to be stored
     for _ in range(int(input())):
